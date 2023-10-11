@@ -1,10 +1,64 @@
-# Aprofundando em Knex - Template de Prática
-**Vamos utilizar esse repositório para as práticas da aula!**
+# Aprofundamento em Knex - Template de Prática
 
-## Instruções para baixar
+## Índice
 
-1. Faça o fork desse repositório.
-2. No repositório com seu nome de usuário, copie a url.
-3. Abra a pasta onde você guarda os materiais do curso pelo terminal.
-4. Baixe o repositório usando: git clone url-copiada.
-5. Abra a pasta no vscode. Vamos codar!
+-   [Prática Guiada 1](#prática-guiada-1)
+
+    -   [Enunciado](#enunciado)
+    -   [Resolução](#resolução)
+
+-   [Prática Guiada 2](#prática-guiada-2)
+
+    -   [Enunciado](#enunciado-1)
+    -   [Resolução](#resoluc3a7c3a3o-1)
+
+-   [Prática Guiada 3](#prática-guiada-3)
+
+    -   [Enunciado](#enunciado-2)
+    -   [Resolução](#resoluc3a7c3a3o-2)
+
+-   [Fixação](#fixação)
+
+    -   [Enunciado](#enunciado-3)
+    -   [Resolução](#resoluc3a7c3a3o-3)
+    -   [Extra](#extra)
+
+## Prática Guiada 1
+
+### Enunciado
+
+![Alt text](image.png)
+
+### Resolução:
+
+`index.ts`
+
+## Prática Guiada 2
+
+![Alt text](image-1.png)
+
+### Enunciado
+
+### Resolução:
+
+`index.ts`
+
+## Prática Guiada 3
+
+### Enunciado
+
+![Alt text](image-2.png)
+
+### Resolução:
+
+`index.ts`
+
+## Fixação
+
+### Enunciado
+
+![Alt text](image-3.png)
+
+### Resolução:
+
+`index.ts`

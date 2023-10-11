@@ -1,4 +1,12 @@
 .env
 .DS_STORE
-node_modules
-build
+
+# dependencies
+/node_modules
+package-lock.json
+
+# production
+/build
+
+# database
+*.db
